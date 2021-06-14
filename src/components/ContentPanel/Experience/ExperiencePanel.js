@@ -3,7 +3,6 @@ import {
     experienceContent
 } from "./ExperiencePanelContent";
 import ExperienceCategory from './ExperienceCategory';
-import "./ExperiencePanel.css";
 import Heading from '../../TextDisplay/Heading';
 class ExperiencePanel extends Component {
 

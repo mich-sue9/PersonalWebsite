@@ -19,10 +19,15 @@
 }
 .category-content-list-item{
     margin:0;
+    margin-bottom:5px;
 }
 
 .category-content-list-item .subpoint{
     margin-left: 30px;
     font-style: italic;
+}
+
+.category-content{
+    margin-left:5px;
 }
 
