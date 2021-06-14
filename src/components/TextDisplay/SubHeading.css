@@ -2,7 +2,7 @@
 .sub-heading{
     width:100%;
     padding: clamp(5px, 6%, 20px);
-    font-size: clamp(15px, 1.5vw, 25px);
+    font-size: clamp(20px, 1.5vw, 25px);
     color:white;
 }
 
