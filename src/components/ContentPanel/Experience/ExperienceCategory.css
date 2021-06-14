@@ -1,0 +1,18 @@
+.experience-category{
+    color:rgb(233, 223, 241);
+    padding: 20px;
+    margin: 20px;
+}
+
+.experience-category .category-name{
+    font-size: 30px;
+    font-weight: bold;
+    color:rgb(210, 197, 245);
+    padding: 15px;
+}
+
+.category-item{
+    padding: 15px;
+    margin: 15px;
+    font-size: 15px;
+}

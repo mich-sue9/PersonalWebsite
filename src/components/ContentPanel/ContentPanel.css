@@ -1,0 +1,21 @@
+.content-panel{
+    width: 100%;
+    margin-left: 30vw;
+    height:fit-content;
+    padding: 50px;
+}
+
+@media screen and (max-width: 960px) {
+    .content-panel{
+        margin-left:0px;
+        padding: 10px;
+    }
+}
+
+@media screen and (min-width: 1100px){
+    .content-panel{
+        margin-left: 330px;
+    }
+    
+}
+

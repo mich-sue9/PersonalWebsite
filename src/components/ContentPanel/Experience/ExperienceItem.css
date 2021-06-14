@@ -1,0 +1,46 @@
+.experienceItem{
+    display:flex;
+    flex-direction: column;
+}
+
+.heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    align-items: center;
+}
+
+.leftHeading{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    gap:10px;
+}
+
+.introduction {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.company-logo{
+    width: 50px;
+}
+
+.Contributions{
+    margin: 10px;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    margin: 15px;
+}
+
+li{
+    margin: 10px;
+}
