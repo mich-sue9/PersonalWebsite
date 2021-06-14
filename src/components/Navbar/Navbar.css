@@ -50,10 +50,9 @@
 
     .nav-menu{
         background: rgb(48, 137, 179, 0.7) ;
-        
         display: flex;
         flex-direction: column;
-        width: 40vw;
+        width: 45vw;
         height: 100vh;
         position: fixed;
         top: 80px;
@@ -64,7 +63,7 @@
     }
 
     .nav-menu.active {
-        left:60vw;
+        left:55vw;
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 1;
@@ -72,7 +71,7 @@
 
     .nav-links{
         text-align: center;
-        padding: 2rem;
+        padding: 1vh;
         width: 100%;
         display: table;
     }
