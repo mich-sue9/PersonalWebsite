@@ -15,7 +15,7 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Skills',
+        title: 'Skills / Side Projects',
         url: '#',
         cName: 'nav-links'
     },

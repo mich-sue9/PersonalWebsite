@@ -1,0 +1,10 @@
+.logoPicture{
+    width: clamp(50px, 15vw, 100px);
+    margin: 5px;
+}
+
+.logoPicture{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

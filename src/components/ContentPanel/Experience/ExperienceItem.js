@@ -3,6 +3,7 @@ import "./ExperienceItem.css";
 import TitleLogoYear from "../../TextDisplay/TitleLogoYear";
 import Category from "../../TextDisplay/Category";
 import Paragraph from "../../TextDisplay/Paragraph";
+import Logo from "../../TextDisplay/Logo";
 /***
  * Used to create section for items in a particular category.
  */
@@ -11,8 +12,8 @@ class ExperienceItem extends Component {
     return (
       <div className="experienceItem">
         <TitleLogoYear company={this.props.company} logo={this.props.logo} period={this.props.period} />
+        <Logo logo={this.props.logo}/>
         <div className="introduction">
-          <Paragraph text={"Role: " + this.props.title}/>
           <Paragraph text={"Description: " + this.props.description}/>
            </div>
         <div className="Contributions">

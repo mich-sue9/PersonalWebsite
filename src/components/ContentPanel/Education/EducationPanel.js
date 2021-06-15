@@ -8,19 +8,20 @@ import Heading from "../../TextDisplay/Heading";
 import TitleLogoYear from "../../TextDisplay/TitleLogoYear";
 import SubHeading from "../../TextDisplay/SubHeading";
 import Category from "../../TextDisplay/Category";
+import Logo from "../../TextDisplay/Logo";
 class EducationPanel extends Component {
 
   render() {
     return (
       <div>
-        <Heading heading="Education" />
+        
         <div>
           <SubHeading subHeading={EducationUniversity.sectionTitle} />
           <TitleLogoYear
             company={EducationUniversity.institution}
-            logo={EducationUniversity.logo}
             period={EducationUniversity.years}
           />
+          <Logo logo={EducationUniversity.logo}/>
           {EducationUniversity.sectionContent.map((item, index) => {
             return (<Category key={index} category={item.category} content={item.content}/>)
           })}
@@ -33,17 +34,20 @@ class EducationPanel extends Component {
             logo={EducationUniversity.logo}
             period={SecondaryEducation.years}
           />
+          <Logo logo={SecondaryEducation.logo}/>
           {SecondaryEducation.sectionContent.map((item, index) => {
             return (<Category key={index} category={item.category} content={item.content}/>)
           })}
         </div>
         <Heading heading="~~~"/>
+        
         <div>
           <SubHeading subHeading={OtherEducation.sectionTitle} />
           {OtherEducation.sectionContent.map((item, index) => {
             return (<Category key={index} category={item.category} content={item.content}/>)
           })}
         </div>
+        
       </div>
     );
   }
