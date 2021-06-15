@@ -83,7 +83,7 @@ export const experienceContent = [
         ]
       },
       {
-        company: "UI Testing Team lead, 180 Degree Consulting University of Toronto, Canada",
+        company: "UI Testing Team lead, 180 Degree Consulting, Canada",
         title: "180 Degree Consulting University of Toronto, Canada",
         period: "2017 September - 2018 April",
         logo: logoDegree,
