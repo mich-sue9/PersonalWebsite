@@ -7,7 +7,7 @@ class SkillsPanel extends Component {
   render() {
     return (
       <div className="skills-panel">
-        <Heading heading="Skills / Side Projects" />
+        <Heading heading="Skills/Projects" />
         <SubHeading subHeading="Skills"/>
           {skills.map((item, index) => {
             return (

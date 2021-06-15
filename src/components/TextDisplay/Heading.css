@@ -1,5 +1,5 @@
 .panel-heading {
-    width: 50%;
+    width: 70%;
     text-align: center;
     border-bottom: 1px solid #7bbfe6;
     line-height: 0.1em;
@@ -9,8 +9,9 @@
   
   .panel-heading  span {
     background: rgb(48, 46, 46);
-    padding: 0 10px;
+    padding:0px;
     font-size: clamp(20px, 3vw, 50px);
     color: #7bbfe6;
+    width:fit-content;
   }
   

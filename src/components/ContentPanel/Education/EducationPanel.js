@@ -14,7 +14,7 @@ class EducationPanel extends Component {
   render() {
     return (
       <div>
-        
+        <Heading heading="Education" />
         <div>
           <SubHeading subHeading={EducationUniversity.sectionTitle} />
           <TitleLogoYear
