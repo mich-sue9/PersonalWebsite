@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.456dbefb.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.c2a58761.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.c2a58761.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.39168577.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.39168577.js.map",
+    "static/js/2.528e08f8.chunk.js": "/PersonalWebsite/static/js/2.528e08f8.chunk.js",
+    "static/js/2.528e08f8.chunk.js.map": "/PersonalWebsite/static/js/2.528e08f8.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "static/css/main.456dbefb.chunk.css.map": "/PersonalWebsite/static/css/main.456dbefb.chunk.css.map",
+    "static/js/2.528e08f8.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.528e08f8.chunk.js.LICENSE.txt",
+    "static/media/SidePanel.css": "/PersonalWebsite/static/media/Background.61b136ab.jpg",
+    "static/media/degreeLogo.c112942f.png": "/PersonalWebsite/static/media/degreeLogo.c112942f.png",
+    "static/media/headshot.5a18c3e8.jpg": "/PersonalWebsite/static/media/headshot.5a18c3e8.jpg",
+    "static/media/srikduLogo.662b7960.png": "/PersonalWebsite/static/media/srikduLogo.662b7960.png",
+    "static/media/thrLogo.bdc8af84.png": "/PersonalWebsite/static/media/thrLogo.bdc8af84.png",
+    "static/media/unhcrLogo.e2b4eb56.jpg": "/PersonalWebsite/static/media/unhcrLogo.e2b4eb56.jpg",
+    "static/media/uofTLogo.49695a46.jpg": "/PersonalWebsite/static/media/uofTLogo.49695a46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39168577.js",
+    "static/js/2.528e08f8.chunk.js",
+    "static/css/main.456dbefb.chunk.css",
+    "static/js/main.c2a58761.chunk.js"
+  ]
+}
